@@ -1,0 +1,41 @@
+h1{
+  color: rgb(252, 5, 59);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  text-align: center;
+}
+ 
+
+#d1{
+   text-align: justify;
+}
+ 
+#d2{
+  text-align: justify;
+}
+#d3{
+   text-align: justify;
+   
+}
+
+
+div{
+color: black;
+background-color: rgb(238, 141, 141);
+border: 15px solid royalblue; 
+border-radius: 15px;
+font-size: 15px;
+padding: 10px 20px 30px 40px;
+margin: 15px 25px 34px 45px;
+height: 300px;
+width: 500px;
+display: inline-block;
+}
+
+ h3{
+     text-align: center;
+ }
+
+.sweet{
+   color: saddlebrown;
+}
